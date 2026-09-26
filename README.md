@@ -219,11 +219,11 @@ This project helped me understand:
 
 ## 👨‍💻 Author
 
-**Sudarshan Jadhav**
+**Sachin Maralabavi**
 
-- Email: jadhavsudarshan470@gmail.com
-- GitHub: https://github.com/sudarshan142023
-- LinkedIn: https://www.linkedin.com/in/sudarshan-jadhav14/
+- Email: sachinmaralabavimaralabavi@gmail.com
+- GitHub:
+- LinkedIn: www.linkedin.com/in/sachin-maralabavi-94b871399
 
 ---
 
