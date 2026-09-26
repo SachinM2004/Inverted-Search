@@ -222,7 +222,7 @@ This project helped me understand:
 **Sachin Maralabavi**
 
 - Email: sachinmaralabavimaralabavi@gmail.com
-- GitHub:
+- GitHub: https://github.com/SachinM2004/Inverted-Search.git
 - LinkedIn: www.linkedin.com/in/sachin-maralabavi-94b871399
 
 ---
